@@ -1,0 +1,1 @@
+import {env} from "cloudflare:workers";export function db(){const database=(env as unknown as {DB:D1Database}).DB;if(!database)throw new Error("Base de datos no disponible");return database;}

@@ -1,0 +1,1563 @@
+[
+  {
+    "id": "ADESLAS-0",
+    "product": "ADESLAS",
+    "patologia": "Glomerulo esclerosis renal con HTA y proteinuria Hace 1 año",
+    "contratable": "RECHAZO",
+    "comentario": ""
+  },
+  {
+    "id": "ADESLAS-1",
+    "product": "ADESLAS",
+    "patologia": "Sertralina antidepresivo + secuelas de hernia discal",
+    "contratable": "RECHAZO",
+    "comentario": ""
+  },
+  {
+    "id": "ADESLAS-2",
+    "product": "ADESLAS",
+    "patologia": "Autismo, Síndrome de Asperger",
+    "contratable": "EXCLUSIÓN",
+    "comentario": "Necesario informe médico para valorar."
+  },
+  {
+    "id": "ADESLAS-3",
+    "product": "ADESLAS",
+    "patologia": "Artritis Reumatoide",
+    "contratable": "EXCLUSIÓN",
+    "comentario": "90% de casos son Rechazo directo. Necesario informe médico para valorar."
+  },
+  {
+    "id": "ADESLAS-4",
+    "product": "ADESLAS",
+    "patologia": "Stent. Endoprótesis vasculares (endoprotesis, stem, sten, marcapasos, stent, estent, esten, wallstent)",
+    "contratable": "RECHAZO",
+    "comentario": "Rechazo directo."
+  },
+  {
+    "id": "ADESLAS-5",
+    "product": "ADESLAS",
+    "patologia": "Altura 170 cm, Peso 93 Kg, Resultado Índice de masa corporal (IMC) = 32,2",
+    "contratable": "EXCLUSIÓN",
+    "comentario": "Excluidos los ingresos, y procedimientos para el estudio diagnóstico y/o tratamiento médico, endoscópicoo quirúrgico de la obesidad. Si en el futuro baja peso se puede solicitar una nueva selección de riesgo aportando nuevo cuestionario e informes sobre la exclusión.\n\nNo hay un tiempo específico, lo puede solicitar incluso el año que viene. Dicho esto, no significa que una vez que lo aporte se le quite la exclusión dependerá de la valoración del departamento médico."
+  },
+  {
+    "id": "ADESLAS-6",
+    "product": "ADESLAS",
+    "patologia": "Diabetes tipo 1 (se pincha insulina, diabético, diabética, diabete)",
+    "contratable": "RECHAZO",
+    "comentario": "Rechazo directo."
+  },
+  {
+    "id": "ADESLAS-7",
+    "product": "ADESLAS",
+    "patologia": "Parkinson",
+    "contratable": "RECHAZO",
+    "comentario": "Enfermedad degenerativa. Rechazo directo."
+  },
+  {
+    "id": "ADESLAS-8",
+    "product": "ADESLAS",
+    "patologia": "Hiperuricemia (gota), anemia ferropénica. deficit B12, diabetes,...",
+    "contratable": "RECHAZO",
+    "comentario": "Necesario informe médico para valorar. Rechazada."
+  },
+  {
+    "id": "ADESLAS-9",
+    "product": "ADESLAS",
+    "patologia": "Hígado grasiento diagnosticado hace más de 20 años (higado, hígado graso)",
+    "contratable": "RECHAZO",
+    "comentario": "Rechazo directo."
+  },
+  {
+    "id": "ADESLAS-10",
+    "product": "ADESLAS",
+    "patologia": "Operación de femur hace más de 40 años (fémur) (pierna, rodilla, cadera).",
+    "contratable": "EXCLUSIÓN",
+    "comentario": "2-EXCLUSIÓN RETIRADA, SUSTITUCIÓN Y/O RECAMBIO DEL MATERIAL DE OSTEOSÍNTESIS FEMUR INTERVENIDO (MEDIOS DE DIAGNÓSTICO, TRATAMIENTOS E INGRESOS), ASÍ COMO POR SUS COMPLICACIONES, CONSECUENCIAS Y/O SECUELAS. Necesario firmar la exclusión para poder asegurar. Tardarán varios días en enviarte la carta de exclusión, paciencia."
+  },
+  {
+    "id": "ADESLAS-11",
+    "product": "ADESLAS",
+    "patologia": "Desprendimiento de retina.",
+    "contratable": "EXCLUSIÓN",
+    "comentario": "EXCLUSION DE LOS MEDIOS DE DIAGNOSTICO , TRATAMIENTOS E INGRESOS\nRELACIONADOS CON LAS COMPLICACIONES , CONSECUENCIAS Y/O SECUELAS DE\nDESPRENDIMIENTO DE RETINA"
+  },
+  {
+    "id": "ADESLAS-12",
+    "product": "ADESLAS",
+    "patologia": "Altura 165 cm, Peso 100 Kg. Resultado Índice de masa corporal (IMC) = 36,7",
+    "contratable": "RECHAZO",
+    "comentario": "No asegurable por peso"
+  },
+  {
+    "id": "ADESLAS-13",
+    "product": "ADESLAS",
+    "patologia": "3 hernias discales 2017 sin operar. No aporta informe actualizado.",
+    "contratable": "EXCLUSIÓN",
+    "comentario": "Necesario informe médico para valorar. Si no aporta informe será necesario una carta jurada. En este caso queda excluída de todo lo relacionado con las hernias. Si no aporta informe se le aplica la máxima exclusión."
+  },
+  {
+    "id": "ADESLAS-14",
+    "product": "ADESLAS",
+    "patologia": "Migrañas, tratamiento con bótox (botox, dolor de cabeza)",
+    "contratable": "EXCLUSIÓN",
+    "comentario": "EXCLUSIÓN DE CEFALEA/MIGRAÑA: MEDIOS DIAGNÓSTICOS, TRATAMIENTO E INGRESOS ASÍ COMO POR SUS COMPLICACIONES, CONSECUENCIAS Y/O SECUELAS"
+  },
+  {
+    "id": "ADESLAS-15",
+    "product": "ADESLAS",
+    "patologia": "Hernia de hiato intervenida.",
+    "contratable": "EXCLUSIÓN",
+    "comentario": "EXCLUSION DE LOS MEDIOS DE DIAGNOSTICO , TRATAMIENTOS E INGRESOS\nRELACIONADOS CON LAS COMPLICACIONES , CONSECUENCIAS Y/O SECUELAS DE\nHERNIA DE HIATO INTERVENIDA"
+  },
+  {
+    "id": "ADESLAS-16",
+    "product": "ADESLAS",
+    "patologia": "Hipotiroidismo, tiroides, hipertiroidismo, hipotiroides, hipertiroides, sin operar toma pastillas Eutirox",
+    "contratable": "EXCLUSIÓN",
+    "comentario": "EXCLUSION AFECCIONES DE TIROIDES: MEDIOS DE DIAGNOSTICO , TRATAMIENTOS E INGRESOS , ASI COMO POR SUS COMPLICACIONES , CONSECUENCIAS Y/O SECUELAS"
+  },
+  {
+    "id": "ADESLAS-17",
+    "product": "ADESLAS",
+    "patologia": "Le han quitado miomas, (mioma)",
+    "contratable": "EXCLUSIÓN",
+    "comentario": "EXCLUSION DE LOS MEDIOS DE DIAGNOSTICO , TRATAMIENTOS E INGRESOS\nRELACIONADOS CON LAS RECIDIVAS , COMPLICACIONES , CONSECUENCIAS Y/O\nSECUELAS DE TUMORES BENIGNOS DE UTERO (1) , METRORRAGIAS (2)"
+  },
+  {
+    "id": "ADESLAS-18",
+    "product": "ADESLAS",
+    "patologia": "Hace 10 años corte de ligamentos y menisco de la rodilla izquierda, ingresada y operada, sin secuelas en la actualidad, lleva una grapa.",
+    "contratable": "EXCLUSIÓN",
+    "comentario": "EXCLUSIÓN DE MEDIOS DIAGNÓSTICOS, TRATAMIENTO E INGRESOS RELACIONADOS CON LAS RECIDIVAS, COMPLICACIONES, CONSECUENCIAS Y/O SECUELAS DE RODILLA IZQUIERDA INTERVENIDA."
+  },
+  {
+    "id": "ADESLAS-19",
+    "product": "ADESLAS",
+    "patologia": "Prótesis en las dos rodillas hace 12 años",
+    "contratable": "EXCLUSIÓN",
+    "comentario": "HISTORIAL MÉDICO COMPLETO Y ACTUALIZADO QUE INCLUYA DIAGNÓSTICOS EN VIGOR,ANTECEDENTES MÉDICO.QUIRÚRGICOS, TRATAMIENTOS, SITUACIÓN ACTUAL"
+  },
+  {
+    "id": "ADESLAS-20",
+    "product": "ADESLAS",
+    "patologia": "La causa de rechazo es IMC de la asegurada Rocío Hidalgo. Edad 13 años, estatura 159,5 y peso 86,5. Obesidad. IMC = 34",
+    "contratable": "RECHAZO",
+    "comentario": ""
+  },
+  {
+    "id": "ADESLAS-21",
+    "product": "ADESLAS",
+    "patologia": "Operada de tiroides, toma Eutirox. Debe aportar informe médico, si no puede conseguirlo hay que hacerle una carta jurada para que declare la enfermedad que tiene y que confirme que acepta la máxima exclusíon posible. Si en un futuro aporta informe se puede mandar a Adeslas para valorarlo nuevamente.",
+    "contratable": "EXCLUSIÓN",
+    "comentario": "SE PRECISA INFORMACIÓN MÉDICA ACTUALIZADA SOBRE TIROIDECTOMÍA: DIAGNÓSTICO/CAUSA/MOTIVO, LOCALIZACIÓN, FECHAS, TRATAMIENTO, PRONÓSTICO Y SITUACIÓN ACTUAL"
+  },
+  {
+    "id": "ADESLAS-22",
+    "product": "ADESLAS",
+    "patologia": "Extirpación de vesícula, le quitaron la vesícula",
+    "contratable": "EXCLUSIÓN",
+    "comentario": ""
+  },
+  {
+    "id": "ADESLAS-23",
+    "product": "ADESLAS",
+    "patologia": "Tea leve, sin mediación, autismo, recién diagnosticado, sin tratamiento.",
+    "contratable": "EXCLUSIÓN",
+    "comentario": "EXCLUSIÓN DE LOS MEDIOS DE DIAGNÓSTICO, TRATAMIENTOS E INGRESOS RELACIONADOS CON  LAS COMPLICACIONES, CONSECUENCIAS Y/O SECUELAS DE TRASTORNO DEL ESPECTRO AUTISTA (TEA)"
+  },
+  {
+    "id": "ADESLAS-24",
+    "product": "ADESLAS",
+    "patologia": "Lleva una placa con tornillos en el radio hace 25 años",
+    "contratable": "EXCLUSIÓN",
+    "comentario": "EXCLUSION RETIRADA , SUSTITUCION Y/O RECAMBIO DEL MATERIAL DE\nOSTEOSINTESIS (MEDIOS DE DIAGNOSTICO , TRATAMIENTOS E INGRESOS) , ASI\nCOMO POR SUS COMPLICACIONES , CONSECUENCIAS Y/O SECUELAS"
+  },
+  {
+    "id": "ADESLAS-25",
+    "product": "ADESLAS",
+    "patologia": "Meningioma pequeño",
+    "contratable": "RECHAZO",
+    "comentario": ""
+  },
+  {
+    "id": "ADESLAS-26",
+    "product": "ADESLAS",
+    "patologia": "Reducción de estómago en el 2018, hace 6 años.",
+    "contratable": "RECHAZO",
+    "comentario": "RECHAZO DIRECTO"
+  },
+  {
+    "id": "ADESLAS-27",
+    "product": "ADESLAS",
+    "patologia": "Tiene un lado de cadera operada y el otro sin operar",
+    "contratable": "EXCLUSIÓN",
+    "comentario": "NECESARIO INFORME MÉDICO DE LAS DOS CADERAS PARA CONTINUAR CON LA VALORACIÓN"
+  },
+  {
+    "id": "ADESLAS-28",
+    "product": "ADESLAS",
+    "patologia": "Operación de cataratas en los dos ojos",
+    "contratable": "EXCLUSIÓN",
+    "comentario": "EXCLUSIÓN DE CATARATAS"
+  },
+  {
+    "id": "ADESLAS-29",
+    "product": "ADESLAS",
+    "patologia": "Operación apendicitis de niño",
+    "contratable": "ACEPTADO",
+    "comentario": "PASA LIMPIA"
+  },
+  {
+    "id": "ADESLAS-30",
+    "product": "ADESLAS",
+    "patologia": "Vasectomia para operar en seguridad social",
+    "contratable": "ACEPTADO",
+    "comentario": ""
+  },
+  {
+    "id": "ADESLAS-31",
+    "product": "ADESLAS",
+    "patologia": "Asma y Fuma medio paquete al día",
+    "contratable": "RECHAZO",
+    "comentario": "ASMA Y FUMA RECHAZO DIRECTO"
+  },
+  {
+    "id": "ADESLAS-32",
+    "product": "ADESLAS",
+    "patologia": "Hiperuricemia",
+    "contratable": "RECHAZO",
+    "comentario": "RECHAZO DIRECTO"
+  },
+  {
+    "id": "ADESLAS-33",
+    "product": "ADESLAS",
+    "patologia": "Cirugía mayor reciente sea cual sea la edad y el estado del paciente",
+    "contratable": "RECHAZO",
+    "comentario": "RECHAZO DIRECTO"
+  },
+  {
+    "id": "ADESLAS-34",
+    "product": "ADESLAS",
+    "patologia": "Artrosis",
+    "contratable": "EXCLUSIÓN",
+    "comentario": "NECESARIO INFORME MÉDICO PARA VALORAR, COMO MÍNIMO EXCLUSIÓN DE ARTROSIS. Y ES POSIBLE QUE NO SEA ASEGURABLE."
+  },
+  {
+    "id": "ADESLAS-35",
+    "product": "ADESLAS",
+    "patologia": "Diabetes tipo 2 (no insulinodependiente), EPOC, Hipertensión (HTA) e Obesidad (IMC ≥ 16,5 y ≤ 40).",
+    "contratable": "EXCLUSIÓN",
+    "comentario": "DEPENDIENDO DEL INFORME Y DE LA SITUACIÓN DEL CLIENTE PUEDE SER ASEGURABLE AUNQUE HAY MUCHA PROBABILIDAD DE QUE SEA RECHAZO DIRECTO POR PLURIPATOLOGÍA."
+  },
+  {
+    "id": "ADESLAS-36",
+    "product": "ADESLAS",
+    "patologia": "Enfermedades graves en tratamiento",
+    "contratable": "RECHAZO",
+    "comentario": ""
+  },
+  {
+    "id": "ADESLAS-37",
+    "product": "ADESLAS",
+    "patologia": "Enfermedades del riñón, como insuficiencia renal...",
+    "contratable": "RECHAZO",
+    "comentario": ""
+  },
+  {
+    "id": "ADESLAS-38",
+    "product": "ADESLAS",
+    "patologia": "Enfermedades cardiovasculares, como por ejemplo, infarto, angina de pecho...",
+    "contratable": "RECHAZO",
+    "comentario": ""
+  },
+  {
+    "id": "ADESLAS-39",
+    "product": "ADESLAS",
+    "patologia": "Enfermedades psiquiátricas, como depresión, trastornos bipolares, esquizofrenia, trastornos alimentarios...",
+    "contratable": "RECHAZO",
+    "comentario": ""
+  },
+  {
+    "id": "ADESLAS-40",
+    "product": "ADESLAS",
+    "patologia": "Enfermedades del sistema nervioso, como esclerosis múltiple, ictus, párkinson...",
+    "contratable": "RECHAZO",
+    "comentario": ""
+  },
+  {
+    "id": "ADESLAS-41",
+    "product": "ADESLAS",
+    "patologia": "Enfermedades reumatológicas, como artritis, lupus, fibromialgia...",
+    "contratable": "RECHAZO",
+    "comentario": ""
+  },
+  {
+    "id": "ADESLAS-42",
+    "product": "ADESLAS",
+    "patologia": "Enfermedades del aparato digestivo, como cirrosis, colitis ulcerosa, Crohn...",
+    "contratable": "RECHAZO",
+    "comentario": ""
+  },
+  {
+    "id": "ADESLAS-43",
+    "product": "ADESLAS",
+    "patologia": "Trasplantes",
+    "contratable": "RECHAZO",
+    "comentario": ""
+  },
+  {
+    "id": "ADESLAS-44",
+    "product": "ADESLAS",
+    "patologia": "Enfermedades del sistema respiratorio, como apneas del sueño...",
+    "contratable": "RECHAZO",
+    "comentario": ""
+  },
+  {
+    "id": "ADESLAS-45",
+    "product": "ADESLAS",
+    "patologia": "Diabetes tipo 1 / insulinodependiente",
+    "contratable": "RECHAZO",
+    "comentario": ""
+  },
+  {
+    "id": "ADESLAS-46",
+    "product": "ADESLAS",
+    "patologia": "Cáncer hace menos de 5 años del tratamiento y sin recaída posterior (valoración conforme a la Ley del Olvido Oncológico)",
+    "contratable": "RECHAZO",
+    "comentario": ""
+  },
+  {
+    "id": "ADESLAS-47",
+    "product": "ADESLAS",
+    "patologia": "FRACTURA HUMERO IZDO INTERVENIDA",
+    "contratable": "EXCLUSIÓN",
+    "comentario": "EXCLUSION DE LOS MEDIOS DE DIAGNOSTICO , TRATAMIENTOS E INGRESOS RELACIONADOS CON LAS RECIDIVAS , COMPLICACIONES , CONSECUENCIAS Y/O SECUELAS DE FRACTURA HUMERO IZDO INTERVENIDA"
+  },
+  {
+    "id": "ADESLAS-48",
+    "product": "ADESLAS",
+    "patologia": "Toma medicación para la tensión",
+    "contratable": "ACEPTADO",
+    "comentario": "PASA LIMPIA"
+  },
+  {
+    "id": "ADESLAS-49",
+    "product": "ADESLAS",
+    "patologia": "Toma antidepresivo, para ansiedad, estés, medicación: Escitalopram.",
+    "contratable": "RECHAZO",
+    "comentario": "RECHAZO DIRECTO, HABLA CON EL CLIENTE SOBRE ESTO Y HAZ TODO LO POSIBLE PARA QUE NO LO DECLARE O SE VA LA PÓLIZA A LA MIERDA."
+  },
+  {
+    "id": "ADESLAS-50",
+    "product": "ADESLAS",
+    "patologia": "37% INVALIDEZ POR TRASPLANTE HÍGADO AÑO 2015, ADJUNTO INFORME ALTA MÉDICA AÑO 2015. TOMA CERCET ADVAGRAF INMUNOSUPRESORES TRAS LA OPERACIÓN.",
+    "contratable": "RECHAZO",
+    "comentario": ""
+  },
+  {
+    "id": "ADESLAS-51",
+    "product": "ADESLAS",
+    "patologia": "Operado de las lumbares para quitar una hernia de lumbar hace 7 años",
+    "contratable": "EXCLUSIÓN",
+    "comentario": "INFORME MÉDICO ACTUAL  HERNIAS INTERVENIDAS : DIAGNÓSTICO, ANATOMIA PATOLÓGICA, LOCALIZACIÓN,  FECHAS, TRATAMIENTO, SITUACIÓN ACTUAL, PRONÓSTICO"
+  },
+  {
+    "id": "ADESLAS-52",
+    "product": "ADESLAS",
+    "patologia": "Operación hernia discal hace 30 años sin secuelas ni tratamiento ni mediación, tiene 33% de invalidez.",
+    "contratable": "EXCLUSIÓN",
+    "comentario": "TE PIDEN INFORME, Y EN SU DEFECTO TENDRÁS QUE HACER CARTA JURADA ACEPTANDO EXCLUSIÓN."
+  },
+  {
+    "id": "ADESLAS-53",
+    "product": "ADESLAS",
+    "patologia": "30 años. Hernia Lumbar L4 y L5 va a ser operado en breve por la seguridad social",
+    "contratable": "ACEPTADO",
+    "comentario": "PASA LIMPIA SIN EXCLUSIÓN"
+  },
+  {
+    "id": "ADESLAS-54",
+    "product": "ADESLAS",
+    "patologia": "25 años. hace 3 años se rompió el cubito del brazo izquierdo y lleva una placa con tornillos y se la van a retirar en breve por la seguridad social.",
+    "contratable": "ACEPTADO",
+    "comentario": ""
+  },
+  {
+    "id": "ADESLAS-55",
+    "product": "ADESLAS",
+    "patologia": "Operación hace 1 año le sacaraon líquido del ojo y además tenía tiroides y tratamiento para la tensión.",
+    "contratable": "RECHAZO",
+    "comentario": "RECHAZO DIRECTO POR PLURIPATOLOGÍA"
+  },
+  {
+    "id": "ADESLAS-56",
+    "product": "ADESLAS",
+    "patologia": "70 año le extirparon hace 40 años la tiroides",
+    "contratable": "ACEPTADO",
+    "comentario": "PASA LIMPIA, PERO OTROS CLIENTES IGUAL SI QUE HAN PUESTO EXCLUSIÓN"
+  },
+  {
+    "id": "ADESLAS-57",
+    "product": "ADESLAS",
+    "patologia": "La próstata se le ha hecho muy grande, toma medicación",
+    "contratable": "EXCLUSIÓN",
+    "comentario": "EXCLUSION AFECCIONES DE PROSTATA (MEDIOS DE DIAGNOSTICO , TRATAMIENTOS\nE INGRESOS) , ASI COMO POR SUS COMPLICACIONES , CONSECUENCIAS Y/O\nSECUELAS"
+  },
+  {
+    "id": "ADESLAS-58",
+    "product": "ADESLAS",
+    "patologia": "Accidente de moto hace 20 años, fractura vertebras y lleva placas.",
+    "contratable": "EXCLUSIÓN",
+    "comentario": "EXCLUSION DE LOS MEDIOS DE DIAGNOSTICO , TRATAMIENTOS E INGRESOS\nRELACIONADOS CON LAS RECIDIVAS , COMPLICACIONES , CONSECUENCIAS Y/O\nSECUELAS DE FRACTURAS VERTEBRALES"
+  },
+  {
+    "id": "ADESLAS-59",
+    "product": "ADESLAS",
+    "patologia": "Desde el COVID lleva audífonos Sorda, sordera, audífono.",
+    "contratable": "EXCLUSIÓN",
+    "comentario": "EXCLUSION SORDERA/HIPOACUSIA Y SUS CAUSAS (MEDIOS DE DIAGNOSTICO ,\nTRATAMIENTOS E INGRESOS) , ASI COMO POR SUS COMPLICACIONES ,\nCONSECUENCIAS Y/O SECUELAS"
+  },
+  {
+    "id": "ADESLAS-60",
+    "product": "ADESLAS",
+    "patologia": "Hernia inguinal hace 12 años",
+    "contratable": "ACEPTADO",
+    "comentario": "PASA LIMPIA"
+  },
+  {
+    "id": "ADESLAS-61",
+    "product": "ADESLAS",
+    "patologia": "VIH. Tiene el sida desde los 18 tiene 52. Únicamente toma medicación (retrovirales).",
+    "contratable": "EXCLUSIÓN",
+    "comentario": "SE PRECISA INFORMACIÓN MÉDICA ACTUALIZADA SOBRE HISTORIAL MÉDICO COMPLETO Y ACTUALIZADO QUE INCLUYA DIAGNÓSTICOS EN VIGOR,ANTECEDENTES MÉDICO-QUIRÚRGICOS, TRATAMIENTOS, SITUACIÓN ACTUAL"
+  },
+  {
+    "id": "ADESLAS-62",
+    "product": "ADESLAS",
+    "patologia": "Operación menisco hace 5 años y el otro hace 2 años.",
+    "contratable": "EN VALORACIÓN MÉDICA",
+    "comentario": "SE PRECISA INFORME PARA PODER VALORAR."
+  },
+  {
+    "id": "ADESLAS-63",
+    "product": "ADESLAS",
+    "patologia": "Antidepresivos.",
+    "contratable": "RECHAZO",
+    "comentario": "RECHAZO DIRECTO."
+  },
+  {
+    "id": "ADESLAS-64",
+    "product": "ADESLAS",
+    "patologia": "Cirrosis Biliar",
+    "contratable": "RECHAZO",
+    "comentario": "RECHAZO DIRECTO."
+  },
+  {
+    "id": "ADESLAS-65",
+    "product": "ADESLAS",
+    "patologia": "Adiro, medicamento antiagregante, acido acetilsalicilico, adiro",
+    "contratable": "RECHAZO",
+    "comentario": "SI TOMA UNA MEDICACIÓN ANTIAGREGANTE NO ES ASEGURABLE, GO."
+  },
+  {
+    "id": "ADESLAS-66",
+    "product": "ADESLAS",
+    "patologia": "Tornillo en la rodilla derecha para centrar el desvió de la rotula, hace 45 años.",
+    "contratable": "ACEPTADO",
+    "comentario": "PASA LIMPIA."
+  },
+  {
+    "id": "ADESLAS-67",
+    "product": "ADESLAS",
+    "patologia": "Osteoporosis, osteporosis.",
+    "contratable": "RECHAZO",
+    "comentario": "PIDEN INFORME. DEPENDIENDO DEL GRADO ES POSIBLE ASEGURAR, PERO EN LA MAYORÍA DE CASOS ES RECHAZO."
+  },
+  {
+    "id": "ADESLAS-68",
+    "product": "ADESLAS",
+    "patologia": "Operación suelo pélvico hace menos de 1 año.",
+    "contratable": "RECHAZO",
+    "comentario": "CUALQUIER OPERACIÓN DE MENOS DE 1 AÑO ADESLAS NO LO VALORA SEA LO QUE SEA"
+  },
+  {
+    "id": "ADESLAS-69",
+    "product": "ADESLAS",
+    "patologia": "Uveitis anteior recidivante HLA-B51+ desde enero 2015, tratamiento con metotraxate retirado en 2020. Además intervención de cataratas y sinequiolisis, tratamiento con adalimumab en julio 2024.",
+    "contratable": "RECHAZO",
+    "comentario": "TRATAMIENTO E INTEVENCIÓN MUY RECIENTE."
+  },
+  {
+    "id": "ADESLAS-70",
+    "product": "ADESLAS",
+    "patologia": "De baja desde hace 1 mes por una queratitis que le impide realizar su trabajo correctamente, se echa unas gotitas en el ojo, le darán el alta en los próximos días, perfecto estado de salud.",
+    "contratable": "RECHAZO",
+    "comentario": "UNA BAJA EN CURSO SIN ALTA, ES RECHAZO DIRECTO. CUIDADO."
+  },
+  {
+    "id": "ADESLAS-71",
+    "product": "ADESLAS",
+    "patologia": "Niña celiaca de 10 años de edad (con altura y peso normal).",
+    "contratable": "EXCLUSIÓN",
+    "comentario": "EXCLUSIÓN enfermedad celiaca: medios de diagnóstico, tratamientos e ingresos, así como por sus complicaciones, consecuencias y/o secuelas."
+  },
+  {
+    "id": "ADESLAS-72",
+    "product": "ADESLAS",
+    "patologia": "Apnea del sueño, CPAP (Presión Positiva Continua en la Vía Aérea)",
+    "contratable": "RECHAZO",
+    "comentario": ""
+  },
+  {
+    "id": "ADESLAS-73",
+    "product": "ADESLAS",
+    "patologia": "Celiaco. Para valorar la enfermedad celíaca, CONFIRMANDO que el resto de respuestas son negativas, y que los parámetros de peso y talla están dentro de la normalidad, se aceptaría con EXCLUSIÓN.",
+    "contratable": "EXCLUSIÓN",
+    "comentario": "EXCLUSIÓN enfermedad celiaca: medios de diagnóstico, tratamientos e ingresos, así como por sus complicaciones, consecuencias y/o secuelas."
+  },
+  {
+    "id": "ADESLAS-74",
+    "product": "ADESLAS",
+    "patologia": "Síndrome de Down, NECESARIO INFORME PARA VALORAR.",
+    "contratable": "EXCLUSIÓN",
+    "comentario": "Solicitan informe médico actual sobre: cardiopatía, patología ocular, apnea del sueño o malformaciones intestinales conocidas (diagnóstico/causa/motivo, localización, fechas, tratamiento, pronóstico y situación actual)."
+  },
+  {
+    "id": "ADESLAS-75",
+    "product": "ADESLAS",
+    "patologia": "Prótesis en las dos caderas año 2011. Cadera intervenida.",
+    "contratable": "EXCLUSIÓN",
+    "comentario": "- 1.-EXCLUSIÓN DE LOS MEDIOS DE DIAGNÓSTICO, TRATAMIENTOS E INGRESOS RELACIONADOS CON LAS RECIDIVAS, COMPLICACIONES, CONSECUENCIAS Y/O SECUELAS DE PATOLOGIA DE LAS CADERAS INTERVENIDAS"
+  },
+  {
+    "id": "ADESLAS-76",
+    "product": "ADESLAS",
+    "patologia": "Úlcera corneal, queratitis, herida abierta en la córnea.",
+    "contratable": "EXCLUSIÓN",
+    "comentario": "AMEOTROPIA: MEDIOS DE DIAGNOSTICO , TRATAMIENTOS E INGRESOS , ASI COMO POR SUS COMPLICACIONES , CONSECUENCIAS Y/O SECUELAS"
+  },
+  {
+    "id": "ADESLAS-77",
+    "product": "ADESLAS",
+    "patologia": "Pastillas para el colesterol y tensión por prevención. 69 años viene de otra compañía.",
+    "contratable": "ACEPTADO",
+    "comentario": "ACEPTAR (si resto de respuestas son negativas y peso y talla están dentro de parámetros)"
+  },
+  {
+    "id": "ADESLAS-78",
+    "product": "ADESLAS",
+    "patologia": "le falta hierro, principio de osteopenia",
+    "contratable": "EXCLUSIÓN",
+    "comentario": "LLEVARÁ SEGURAMENTE EXCLUSIÓN, Y PUEDE QUE PIDAN INFORME."
+  },
+  {
+    "id": "ADESLAS-79",
+    "product": "ADESLAS",
+    "patologia": "Tenosinovitis de De Quervain, tendinitis de quervain,",
+    "contratable": "EN VALORACIÓN MÉDICA",
+    "comentario": "PIDEN INFORME"
+  },
+  {
+    "id": "ADESLAS-80",
+    "product": "ADESLAS",
+    "patologia": "Leucemia desde 2021",
+    "contratable": "RECHAZO",
+    "comentario": ""
+  },
+  {
+    "id": "ADESLAS-81",
+    "product": "ADESLAS",
+    "patologia": "TENSION Y DIABETES TIPO 2 Y 2022 OPERADO VESICULA BILIAR",
+    "contratable": "RECHAZO",
+    "comentario": "RECHAZO DIRECTO POR PLURIPATOLOGÍA, PRINCIPALMENTE POR LA VESICULA BILIAR"
+  },
+  {
+    "id": "ADESLAS-82",
+    "product": "ADESLAS",
+    "patologia": "HEPATITIS C",
+    "contratable": "EXCLUSIÓN",
+    "comentario": "PIDEN INFORME"
+  },
+  {
+    "id": "ADESLAS-83",
+    "product": "ADESLAS",
+    "patologia": "hiperplasia benigna de próstata",
+    "contratable": "EXCLUSIÓN",
+    "comentario": "PIDEN INFORME"
+  },
+  {
+    "id": "ADESLAS-84",
+    "product": "ADESLAS",
+    "patologia": "Estenosis de la válvula aórtica. Paciente 78 años que tiene un estrechamiento de la vena aortica y le tienen que intervenir.",
+    "contratable": "RECHAZO",
+    "comentario": "RECHAZO DIRECTO"
+  },
+  {
+    "id": "ADESLAS-85",
+    "product": "ADESLAS",
+    "patologia": "Un quiste, o masa, renal es una bolsa de líquido que se forma sobre o dentro del riñón",
+    "contratable": "RECHAZO",
+    "comentario": "RECHAZO DIRECTO PATOLOGÍA NO ASEGURABLE"
+  },
+  {
+    "id": "ADESLAS-86",
+    "product": "ADESLAS",
+    "patologia": "operación de próstata con LASER DE HOLEP",
+    "contratable": "EN VALORACIÓN MÉDICA",
+    "comentario": "PIDEN INFORME Y ES RECHAZO"
+  },
+  {
+    "id": "ADESLAS-87",
+    "product": "ADESLAS",
+    "patologia": "Una colecistectomía es una cirugía que se utiliza para extirpar la vesícula.",
+    "contratable": "EXCLUSIÓN",
+    "comentario": ""
+  },
+  {
+    "id": "ADESLAS-88",
+    "product": "ADESLAS",
+    "patologia": "Poliquistosis renal.",
+    "contratable": "EN VALORACIÓN MÉDICA",
+    "comentario": "Se precisaría información médica actualizada de poliquistosis renal (1), funcionalismo renal (2): Diagnóstico/Motivo/Causa, localización, fechas, tratamiento, situación actual y pronóstico."
+  },
+  {
+    "id": "ADESLAS-89",
+    "product": "ADESLAS",
+    "patologia": "Operado de HOMBRO MANGUITO ROTADOR HACE 4 AÑOS intervenido CON ADESLAS",
+    "contratable": "ACEPTADO",
+    "comentario": "ES RARO PERO HA PASADO LIMPIA"
+  },
+  {
+    "id": "ADESLAS-90",
+    "product": "ADESLAS",
+    "patologia": "ENERO 2023 OPERACIÓN DE PRÓSTATA, LE QUITARON PARTE DE LA PRÓSTATA, DESDE ENTONCES SIN MEDICACIÓN, SIN TRATAMIENTO Y SIN RECAÍDA.",
+    "contratable": "EN VALORACIÓN MÉDICA",
+    "comentario": "PIDEN INFORME PARA PODER VALORAR."
+  },
+  {
+    "id": "ADESLAS-91",
+    "product": "ADESLAS",
+    "patologia": "Se le reconoció un 35% de discapacidad por la operación de la rodilla hace 19 años.",
+    "contratable": "EN VALORACIÓN MÉDICA",
+    "comentario": "PIDEN HISTORIAL MÉDICO"
+  },
+  {
+    "id": "ADESLAS-92",
+    "product": "ADESLAS",
+    "patologia": "Extracción de una piedra en la vesícula (cálculos biliares) de manera no intrusiva mediante colonoscopia, hace 2 años. Sin complicaciones, tratamientos posteriores  ni secuelas.",
+    "contratable": "EN VALORACIÓN MÉDICA",
+    "comentario": "PIDEN HISTORIAL MÉDICO"
+  },
+  {
+    "id": "ADESLAS-93",
+    "product": "ADESLAS",
+    "patologia": "Operación de la rodilla derecha hace 19 años debido a una caída para la introducción de una prótesis, dicha operación no ha generado complicaciones, tratamientos posteriores y actualmente no tiene secuelas, debido a esta operación se me reconoció un 35% de discapacidad",
+    "contratable": "EN VALORACIÓN MÉDICA",
+    "comentario": "PIDEN HISTORIAL MÉDICO"
+  },
+  {
+    "id": "ADESLAS-94",
+    "product": "ADESLAS",
+    "patologia": "Pastillas para la tension alta indapamida, amblodipino\noperada vesicula biliar en el año 2000",
+    "contratable": "EN VALORACIÓN MÉDICA",
+    "comentario": "PIDEN HISTORIAL MÉDICO"
+  },
+  {
+    "id": "ADESLAS-95",
+    "product": "ADESLAS",
+    "patologia": "ARTROSIS HACE 17 AÑOS INFORME EXCLUSIÓN.\nINVALIDEZ DE 33% TOTAL PERMANENTE CONTRIBUTIVA",
+    "contratable": "EXCLUSIÓN",
+    "comentario": "PIDEN INFORME Y LLEVARÁ EXCLUSIÓN"
+  },
+  {
+    "id": "ADESLAS-96",
+    "product": "ADESLAS",
+    "patologia": "Prótesis de cadera izquierda en el año 2022. Aporta informe.",
+    "contratable": "EXCLUSIÓN",
+    "comentario": "NOS PIDEN INFORME DE LA CADERA DERECHA O DE LO CONTRARIO NO SE PUEDE HACER LA PÓLIZA. NO VALE CON CARTA JURADA."
+  },
+  {
+    "id": "ADESLAS-97",
+    "product": "ADESLAS",
+    "patologia": "síndrome de Sjögren",
+    "contratable": "RECHAZO",
+    "comentario": "La valoración del caso  con los datos proporcionados es DENEGAR por riesgo no asegurable (Sd Sjögren)"
+  },
+  {
+    "id": "ADESLAS-98",
+    "product": "ADESLAS",
+    "patologia": "apendicitis año 1977. 2023 extirpar ovarios y trompas por un quiste y por prevencion",
+    "contratable": "ACEPTADO",
+    "comentario": "PASA LIMPIA."
+  },
+  {
+    "id": "ADESLAS-99",
+    "product": "ADESLAS",
+    "patologia": "Fibrosis retroperitoneal, diagnosticado hace 15 AÑOS, sin consecuencias, tratamiento: toma corticoides de 2,5 y anticoagulante savelto",
+    "contratable": "RECHAZO",
+    "comentario": "RECHAZO DIRECTO."
+  },
+  {
+    "id": "ADESLAS-100",
+    "product": "ADESLAS",
+    "patologia": "EPOC leve 80% y diabetes tipo 2. Para poder valorar es necesario que aporte informe del EPOC.",
+    "contratable": "EN VALORACIÓN MÉDICA",
+    "comentario": "PIDEN INFORME MÉDICO ACTUAL   EPOC: DIAGNÓSTICO, CLASIFICACIÓN GOLD, FECHAS, TRATAMIENTO, SITUACIÓN ACTUAL, PRONÓSTICO"
+  },
+  {
+    "id": "ADESLAS-101",
+    "product": "ADESLAS",
+    "patologia": "160, 85 KG, IMC 32,2 OBESIDAD.",
+    "contratable": "EXCLUSIÓN",
+    "comentario": "EXCLUIDOS LOS INGRESOS Y PROCEDIMIENTOS PARA ESTUDIO DIAGNOSTICO Y/O TRATAMIENTO MEDICO , ENDOSCOPICO O QUIRURGICO DE LA OBESIDAD"
+  },
+  {
+    "id": "ADESLAS-102",
+    "product": "ADESLAS",
+    "patologia": "OPERADA DE LA ESPALDA EN 2023. APORTA INFORME DE LA OPERACIÓN.",
+    "contratable": "EXCLUSIÓN",
+    "comentario": "EXCLUSION DE LOS MEDIOS DE DIAGNOSTICO , TRATAMIENTOS E INGRESOS RELACIONADOS CON LAS RECIDIVAS , COMPLICACIONES , CONSECUENCIAS Y/O SECUELAS DE CIRUGIA DE COLUMNA LUMBO-SACRA Y SUS CAUSAS"
+  },
+  {
+    "id": "ADESLAS-103",
+    "product": "ADESLAS",
+    "patologia": "Tiene artrosis leve, toma una pastilla al día de Condrosan de 400mg. Y se hace infiltraciones 1 vez al año en la rodilla y cadera.",
+    "contratable": "EXCLUSIÓN",
+    "comentario": "HISTORIAL MÉDICO ACTUALIZADO COMPLETO CON ANTECEDENTES PERSONALES"
+  },
+  {
+    "id": "ADESLAS-104",
+    "product": "ADESLAS",
+    "patologia": "Apnea del sueño. Lleva mascarilla por las noches porque ronca, únicamente para respirar mejor, no tiene nada más, lo hizo principalmente por que su mujer no podía dormir, pero no tiene patologías añadidas ni nada más-",
+    "contratable": "RECHAZO",
+    "comentario": "La valoración del caso  con los datos proporcionados es DENEGAR por riesgo no asegurable. (SAOS con CPAP)"
+  },
+  {
+    "id": "ADESLAS-105",
+    "product": "ADESLAS",
+    "patologia": "operación vesícula biliar en póliza plena",
+    "contratable": "ACEPTADO",
+    "comentario": "PASA LIMPIA."
+  },
+  {
+    "id": "ADESLAS-106",
+    "product": "ADESLAS",
+    "patologia": "Discapacidad reconocida del 81% por miopía hace 15 años. Sin embargo el paciente indica que puede ver con casi total normalidad y que puede tener una vida autónoma sin problema. APORTA INFORME",
+    "contratable": "EXCLUSIÓN",
+    "comentario": "EXCLUSIÓN DE CIN/SIL-VHP"
+  },
+  {
+    "id": "ADESLAS-107",
+    "product": "ADESLAS",
+    "patologia": "operacion cuello de utero en 2020",
+    "contratable": "EXCLUSIÓN",
+    "comentario": ""
+  },
+  {
+    "id": "ADESLAS-108",
+    "product": "ADESLAS",
+    "patologia": "OPERADA DE LAS DOS PIERNAS EN NOVIEMBRE 2024. (menos de 1 año) LIPEDEMA",
+    "contratable": "RECHAZO",
+    "comentario": ""
+  },
+  {
+    "id": "ADESLAS-109",
+    "product": "ADESLAS",
+    "patologia": "ENDOMETRIOSIS",
+    "contratable": "EXCLUSIÓN",
+    "comentario": "EXCLUSIÓN : ENDOMETRIOSIS  medios de diagnóstico, tratamientos e ingresos, así como por sus complicaciones, consecuencias y/o secuelas."
+  },
+  {
+    "id": "ADESLAS-110",
+    "product": "ADESLAS",
+    "patologia": "La trombocitemia esencial",
+    "contratable": "RECHAZO",
+    "comentario": "DENEGAR por riesgo no asegurable"
+  },
+  {
+    "id": "ADESLAS-111",
+    "product": "ADESLAS",
+    "patologia": "Arritmia, arritmias",
+    "contratable": "RECHAZO",
+    "comentario": ""
+  },
+  {
+    "id": "ADESLAS-112",
+    "product": "ADESLAS",
+    "patologia": "Operación de la rodilla derecha para una prótesis hace 3 años aproximadamente por artrosis, no tiene secuelas, ni tratamientos posteriores a la operación.",
+    "contratable": "EXCLUSIÓN",
+    "comentario": "EXCLUSION ARTROSIS (1), RODILLA DERECHA (2): MEDIOS DE DIAGNÓSTICO, TRATAMIENTOS E INGRESOS, ASÍ COMO POR SUS COMPLICACIONES, CONSECUENCIAS Y/O SECUELAS"
+  },
+  {
+    "id": "ADESLAS-113",
+    "product": "ADESLAS",
+    "patologia": "Con 14 años se le diagnostico con un lipoma en la médula anclada, tiene una falta de control de micción como secuela.",
+    "contratable": "RECHAZO",
+    "comentario": "Lipoma en la médula anclada causante de una falta de control de micción como secuela. - DENEGAR por riesgo no asegurable"
+  },
+  {
+    "id": "ADESLAS-114",
+    "product": "ADESLAS",
+    "patologia": "Insuficiencia Venosa Crónica diagnoticada hace 10 años, sin tratamiento en curos o secuelas - ACEPTAR con la siguiente EXCLUSIÓN.",
+    "contratable": "EXCLUSIÓN",
+    "comentario": "EXCLUSIÓN Insuficiencia Venosa de Extremidades Inferiores: medios de diagnóstico, tratamientos e ingresos, así como por sus complicaciones, consecuencias y/o secuelas."
+  },
+  {
+    "id": "ADESLAS-115",
+    "product": "ADESLAS",
+    "patologia": "Lumbalgia en tratamiento",
+    "contratable": "EXCLUSIÓN",
+    "comentario": "Rechazo por tratamiento en curso."
+  },
+  {
+    "id": "ADESLAS-116",
+    "product": "ADESLAS",
+    "patologia": "Se drogó cuando era joven.",
+    "contratable": "EN VALORACIÓN MÉDICA",
+    "comentario": "Van a pedir historial médico para poder valorar."
+  },
+  {
+    "id": "ADESLAS-117",
+    "product": "ADESLAS",
+    "patologia": "OPERACIÓN DE L4 L5",
+    "contratable": "EN VALORACIÓN MÉDICA",
+    "comentario": "SIN INFORME NO SE PUEDE HACER NADA."
+  },
+  {
+    "id": "ADESLAS-118",
+    "product": "ADESLAS",
+    "patologia": "Demencia leve diagnosticada hace 1 año, sin tratamiento en curso, Diabetes tipo 2 e hipertensión.",
+    "contratable": "RECHAZO",
+    "comentario": "DENEGAR por riesgo no asegurable"
+  },
+  {
+    "id": "ADESLAS-119",
+    "product": "ADESLAS",
+    "patologia": "Ácido úrico toma una pastilla desde hace 10 años",
+    "contratable": "EN VALORACIÓN MÉDICA",
+    "comentario": "NECESARIO INFORME MÉDICO PARA PODER VALORAR. NO VALE CON UNA ANALÍTICA, SI NO ENTREGA INFORME NO SE PUEDE CONTINUAR."
+  },
+  {
+    "id": "ADESLAS-120",
+    "product": "ADESLAS",
+    "patologia": "DIU",
+    "contratable": "EN VALORACIÓN MÉDICA",
+    "comentario": "1.INFORME MÉDICO ACTUALIZADO GINECOLOGÍA : DIAGNOSTICO/CAUSA/MOTIVO, LOCALIZACIÓN, FECHAS, TRATAMIENTO, PRONOSTICO Y SITUACIÓN ACTUAL. RECOMENDARLE QUE NO LO DECLARE."
+  },
+  {
+    "id": "ADESLAS-121",
+    "product": "ADESLAS",
+    "patologia": "PRÓTESIS EN RODILLA DERECHA INTERVENIDA HACE 10 MESES.",
+    "contratable": "EXCLUSIÓN",
+    "comentario": ""
+  },
+  {
+    "id": "ADESLAS-122",
+    "product": "ADESLAS",
+    "patologia": "Prótesis en las dos rodillas",
+    "contratable": "EXCLUSIÓN",
+    "comentario": "EXCLUSION (1) AFEFECCIONES RODILLA IZD (2) RETIRADA /RECAMBIO PROTESIS RODILLA DCHA (2) AFECCIONES RODILLA DCHA (MEDIOS DIAGNOSTICO , TRATAMIENTOS E INGRESOS) ASI COMO POR SUS COMPLICACIONES , CONSECUENCIAS Y/O SECUELAS"
+  },
+  {
+    "id": "ADESLAS-123",
+    "product": "ADESLAS",
+    "patologia": "Colon irritable. Síndrome del intestino irritable. El síndrome del intestino irritable (SII) es un trastorno que lleva a dolor en el abdomen y cambios en los movimientos intestinales. Este síndrome no es lo mismo que enfermedad intestinal inflamatoria (EII).",
+    "contratable": "EN VALORACIÓN MÉDICA",
+    "comentario": "NECESARIO INFORME MÉDICO PARA PODER VALORAR. NO VALE CON UNA ANALÍTICA, SI NO ENTREGA INFORME NO SE PUEDE CONTINUAR."
+  },
+  {
+    "id": "ADESLAS-124",
+    "product": "ADESLAS",
+    "patologia": "Hernia discal intervenida hace 18 años. Artrosis en la rodilla.",
+    "contratable": "EXCLUSIÓN",
+    "comentario": "NO ES NECESARIO INFORME."
+  },
+  {
+    "id": "ADESLAS-125",
+    "product": "ADESLAS",
+    "patologia": "69 años Hepatitis autoinmune sin tratamiento en la actualidad y Diabetes tipo 2 pastillas.",
+    "contratable": "RECHAZO",
+    "comentario": "DENEGAR por riesgo no asegurable"
+  },
+  {
+    "id": "ADESLAS-126",
+    "product": "ADESLAS",
+    "patologia": "Esclerodermia",
+    "contratable": "RECHAZO",
+    "comentario": "DENEGAR por riesgo no asegurable"
+  },
+  {
+    "id": "ADESLAS-127",
+    "product": "ADESLAS",
+    "patologia": "Operada de una cadera. Aporta informe año 2022 (hace 4 años).",
+    "contratable": "EN VALORACIÓN MÉDICA",
+    "comentario": "SIN INFORME ACTUALIZADO NO SE PUEDE CONTINUAR."
+  },
+  {
+    "id": "ADESLAS-128",
+    "product": "ADESLAS",
+    "patologia": "Operada de una cadera. Aporta informe año 2024 de la cadera intervenida. (hace 1 año)",
+    "contratable": "EN VALORACIÓN MÉDICA",
+    "comentario": "ES NECESARIO EL INFORME DE LAS DOS CADERAS, LA OPERADA Y LA QUE NO ESTÁ OPERADA, DE LO CONTRARIO NO SE PUEDE CONTINUAR CON LA VALORACIÓN MÉDICA."
+  },
+  {
+    "id": "ADESLAS-129",
+    "product": "ADESLAS",
+    "patologia": "Fibrilación auricular, toma xarelto 20 miligramos, es como las arritmias",
+    "contratable": "RECHAZO",
+    "comentario": ""
+  },
+  {
+    "id": "ADESLAS-130",
+    "product": "ADESLAS",
+    "patologia": "El señor se toma unas pastillas para prevenir la horgura de la próstata desde hace 3 años.",
+    "contratable": "EXCLUSIÓN",
+    "comentario": "NO HA SIDO NECESARIO INFORME."
+  },
+  {
+    "id": "ADESLAS-131",
+    "product": "ADESLAS",
+    "patologia": "Polineuritis",
+    "contratable": "RECHAZO",
+    "comentario": ""
+  },
+  {
+    "id": "ADESLAS-132",
+    "product": "ADESLAS",
+    "patologia": "Operada de cadera hace menos de 1 año. Aporta informe donde pone que se recomienda fisioterapia para patología muscular y lumbar. Y donde se recomienda visita a cirugía vascular si perssiste edema en ambos tobillos. No está recuperada al 100%.",
+    "contratable": "RECHAZO",
+    "comentario": "TRAS VER EL INFORME PROCEDEN AL RECHAZO."
+  },
+  {
+    "id": "ADESLAS-133",
+    "product": "ADESLAS",
+    "patologia": "Operación de rodilla para una prótesis hace más de 4 años.",
+    "contratable": "EXCLUSIÓN",
+    "comentario": "ACEPTAN SI EL INFORME ES FAVORABLE."
+  },
+  {
+    "id": "ADESLAS-134",
+    "product": "ADESLAS",
+    "patologia": "Epilepsia, epiléptica",
+    "contratable": "EXCLUSIÓN",
+    "comentario": "Se precisaría información médica actualizada de la patología declarada EPILEPSIA: Diagnóstico/Motivo/Causa, localización, fechas, tratamiento, situación actual y pronóstico."
+  },
+  {
+    "id": "ADESLAS-135",
+    "product": "ADESLAS",
+    "patologia": "El síndrome de Asperger, ​ también llamado simplemente aspérger o ásperger, ​dificultad para afrontar situaciones sociales.",
+    "contratable": "EXCLUSIÓN",
+    "comentario": "2.⁠ ⁠EXCLUSIÓN DE LOS MEDIOS DE DIAGNÓSTICO, TRATAMIENTOS E INGRESOS RELACIONADOS CON  LAS COMPLICACIONES, CONSECUENCIAS Y/O SECUELAS DE TRASTORNO DEL ESPECTRO AUTISTA (TEA)"
+  },
+  {
+    "id": "ADESLAS-136",
+    "product": "ADESLAS",
+    "patologia": "Granuloma eosinófilo: 13 de Marzo del 2009, fue operado con éxito y le dieron el alta en los días siguientes. Las revisiones posteriores mostraron que NO QUEDÓ SECUELA alguna hasta el punto de que no se ve siguiera la cicatriz en el hueso.",
+    "contratable": "ACEPTADO",
+    "comentario": ""
+  },
+  {
+    "id": "ADESLAS-137",
+    "product": "ADESLAS",
+    "patologia": "Absceso: No lo recuerdo pero pudiera ser en Noviembre del 2007 a consecuencia de la varicela o en mayo del 2020 cuando tenía acné. En todo caso está totalmente curado y NO HAY SECUELAS",
+    "contratable": "ACEPTADO",
+    "comentario": ""
+  },
+  {
+    "id": "ADESLAS-138",
+    "product": "ADESLAS",
+    "patologia": "A los 10 años ( Noviembre 2013) Por MIOPÍA y ESTIGMATISMO. EN LA ACTUALIDAD SIGUE LLEVANDO GAFAS",
+    "contratable": "ACEPTADO",
+    "comentario": ""
+  },
+  {
+    "id": "ADESLAS-139",
+    "product": "ADESLAS",
+    "patologia": "UVEITIS OJO IZQUIERDO",
+    "contratable": "EXCLUSIÓN",
+    "comentario": ""
+  },
+  {
+    "id": "ADESLAS-140",
+    "product": "ADESLAS",
+    "patologia": "Mujer de 70 años con ácido úrico causado por la menopausa desde los 50 años. Toma mediación Alopurinol de 300 mg.",
+    "contratable": "ACEPTADO",
+    "comentario": "Aceptado sin exclusión. Aunque otros ácidos úricos si ha habido exclusión."
+  },
+  {
+    "id": "ADESLAS-141",
+    "product": "ADESLAS",
+    "patologia": "ICTUS hace 5 años.",
+    "contratable": "RECHAZO",
+    "comentario": "RECHAZO DIRECTO."
+  },
+  {
+    "id": "ADESLAS-142",
+    "product": "ADESLAS",
+    "patologia": "Colesterol: Simvastatina 10mg, 1 al día. Controlado por debajo de 220 mg/dL.\nAcido úrico: Alopurinol 100mg, 1 al día. Diagnosticado a raíz de la menopausia.\nHipotiroidismo, Eutirox 100mg, 1 al día.\nHipertensión: Telmisartan 80mg, 1 al día. 13/7 y 13/8",
+    "contratable": "EXCLUSIÓN",
+    "comentario": "EXCLUSION AFECCIONES BENIGNAS DE TIROIDES y EXCLUSION HIPERURICEMIA- GOTA."
+  },
+  {
+    "id": "ADESLAS-143",
+    "product": "ADESLAS",
+    "patologia": "Operación de rodilla de hace 3 meses aporta informe de alta.",
+    "contratable": "RECHAZO",
+    "comentario": "Rechazo directo por operación muy reciente."
+  },
+  {
+    "id": "ADESLAS-144",
+    "product": "ADESLAS",
+    "patologia": "VPH. Virus del papiloma humano.",
+    "contratable": "RECHAZO",
+    "comentario": "RECHZADO DIRECTO"
+  },
+  {
+    "id": "ADESLAS-145",
+    "product": "ADESLAS",
+    "patologia": "Escoliosis leve, desviación de la columna.",
+    "contratable": "EXCLUSIÓN",
+    "comentario": "EXCLUSION"
+  },
+  {
+    "id": "ADESLAS-146",
+    "product": "ADESLAS",
+    "patologia": "Gonalgia (dolor en la rodilla)",
+    "contratable": "EN VALORACIÓN MÉDICA",
+    "comentario": "INFORME MÉDICO ACTUAL   GONALGIA: DIAGNÓSTICO/MOTIVO/CAUSA, LOCALIZACIÓN,  FECHAS, TRATAMIENTO, SITUACIÓN ACTUAL, PRONÓSTICO"
+  },
+  {
+    "id": "ADESLAS-147",
+    "product": "ADESLAS",
+    "patologia": "REUMATITIS",
+    "contratable": "RECHAZO",
+    "comentario": "RECHAZO DIRECTO"
+  },
+  {
+    "id": "ADESLAS-148",
+    "product": "ADESLAS",
+    "patologia": "Cornetas nasales, dificultad para respirar por la nariz",
+    "contratable": "ACEPTADO",
+    "comentario": ""
+  },
+  {
+    "id": "ADESLAS-149",
+    "product": "ADESLAS",
+    "patologia": "Epilepsia toma DEPAKINE",
+    "contratable": "EN VALORACIÓN MÉDICA",
+    "comentario": "INFORME MÉDICO ACTUAL   TTO.DEPAKINE: DIAGNÓSTICO/MOTIVO/CAUSA,  FECHA ÚLTIMA CRISIS, TRATAMIENTO, SITUACIÓN ACTUAL, PRONÓSTICO"
+  },
+  {
+    "id": "ADESLAS-150",
+    "product": "ADESLAS",
+    "patologia": "Operada Vegetaciones y amígdalas",
+    "contratable": "ACEPTADO",
+    "comentario": "PASA LIMPIA"
+  },
+  {
+    "id": "ADESLAS-151",
+    "product": "ADESLAS",
+    "patologia": "Operada de cervicales en 2022",
+    "contratable": "ACEPTADO",
+    "comentario": "PASA LIMPIA"
+  },
+  {
+    "id": "ADESLAS-152",
+    "product": "ADESLAS",
+    "patologia": "Estenosis Uretral",
+    "contratable": "EN VALORACIÓN MÉDICA",
+    "comentario": ""
+  },
+  {
+    "id": "ADESLAS-153",
+    "product": "ADESLAS",
+    "patologia": "Un paciente de 68 con una operación para solucionar el síndrome de Wolff Parkinson White hace 22 años, quemando la parte sobrante que provoca este síndrome, sin complicaciones ni tratamiento desde entonces.",
+    "contratable": "ACEPTADO",
+    "comentario": "PASA LIMPIA"
+  },
+  {
+    "id": "ADESLAS-154",
+    "product": "ADESLAS",
+    "patologia": "MASTOCITOSIS SISTÉMICA toma CLOMOGLICATO 200 MG 4 VECES AL DIA",
+    "contratable": "RECHAZO",
+    "comentario": "RECHAZO DIRECTO"
+  },
+  {
+    "id": "ADESLAS-155",
+    "product": "ADESLAS",
+    "patologia": "trastorno obsesivo-compulsivo (TOC)",
+    "contratable": "RECHAZO",
+    "comentario": "RECHAZO DIRECTO"
+  },
+  {
+    "id": "ADESLAS-156",
+    "product": "ADESLAS",
+    "patologia": "Prediabético, prediabetes",
+    "contratable": "EN VALORACIÓN MÉDICA",
+    "comentario": "HISTORIAL MÉDICO"
+  },
+  {
+    "id": "ADESLAS-157",
+    "product": "ADESLAS",
+    "patologia": "Prótesis de 1 cadera.",
+    "contratable": "EN VALORACIÓN MÉDICA",
+    "comentario": "PIDEN INFORME DE LAS 2 CADERAS, LA BUENA Y LA MALA.\nEXCLUSION (1) AFECCIONES CADERA DCHA (2) RETIRADA/RECAMBIO PROTESIS\nCADERA DCHA (MEDIOS DIAGNOSTICO , TRATAMIENTOS E INGRESOS) ASI COMO\nPOR SUS COMPLICACIONES , CONSECUENCIAS Y/O SECUELAS"
+  },
+  {
+    "id": "ADESLAS-158",
+    "product": "ADESLAS",
+    "patologia": "hesterosis de ureter",
+    "contratable": "EN VALORACIÓN MÉDICA",
+    "comentario": "PIDEN INFORME."
+  },
+  {
+    "id": "ADESLAS-159",
+    "product": "ADESLAS",
+    "patologia": "Operación de tobillo hace 2 años",
+    "contratable": "EN VALORACIÓN MÉDICA",
+    "comentario": "PIDEN INFORME. PUEDEN APLICAR EXCLUSIÓN O RECHAZO SEGÚN ESTÉ."
+  },
+  {
+    "id": "ADESLAS-160",
+    "product": "ADESLAS",
+    "patologia": "ARTROSCOPIA RODILLA IZDA. Y SUS CAUSAS (MENISCOPATIA)",
+    "contratable": "EN VALORACIÓN MÉDICA",
+    "comentario": "NECESARIO INFORME Y APLICAN EXCLUSION DE LOS MEDIOS DE DIAGNOSTICO , TRATAMIENTOS E INGRESOS RELACIONADOS CON LAS RECIDIVAS , COMPLICACIONES , CONSECUENCIAS Y/O SECUELAS"
+  },
+  {
+    "id": "ADESLAS-161",
+    "product": "ADESLAS",
+    "patologia": "Litotricia",
+    "contratable": "EN VALORACIÓN MÉDICA",
+    "comentario": "INFORME MÉDICO LITOTRICIA : DIAGNOSTICO/CAUSA/MOTIVO, LOCALIZACIÓN, FECHAS, TRATAMIENTO, PRONOSTICO Y SITUACIÓN ACTUAL. TRAS VER INFORME ADESLAS LO RECHAZA."
+  },
+  {
+    "id": "ADESLAS-162",
+    "product": "ADESLAS",
+    "patologia": "SIDA, VIH, cero positivo, sida desde 2011 aporta informe",
+    "contratable": "ACEPTADO",
+    "comentario": "TRAS VER INFORME LO ACEPTAN SIN EXCLUSIÓN"
+  },
+  {
+    "id": "ADESLAS-163",
+    "product": "ADESLAS",
+    "patologia": "Operación para la extracción de la vesícula hace 2 años. Sin tratamientos ni complicaciones desde entonces.",
+    "contratable": "ACEPTADO",
+    "comentario": "PASA LIMPIA"
+  },
+  {
+    "id": "ADESLAS-164",
+    "product": "ADESLAS",
+    "patologia": "ANEURISMA",
+    "contratable": "RECHAZO",
+    "comentario": "RECHAZO DIRECTO"
+  },
+  {
+    "id": "ADESLAS-165",
+    "product": "ADESLAS",
+    "patologia": "Intervenida de cadera derecha, nos piden informe de la izquierda, aportamos carta jurada.",
+    "contratable": "ACEPTADO",
+    "comentario": "PASA LIMPIA"
+  },
+  {
+    "id": "ADESLAS-166",
+    "product": "ADESLAS",
+    "patologia": "TUMOR OVARIO, quiste ovario.",
+    "contratable": "EXCLUSIÓN",
+    "comentario": "EXCLUSION DE LOS MEDIOS DE DIAGNOSTICO , TRATAMIENTOS E INGRESOS\nRELACIONADOS CON LAS RECIDIVAS , COMPLICACIONES , CONSECUENCIAS Y/O\nSECUELAS DE TUMORES BENIGNOS DE OVARIO Y SU CIRUGIA"
+  },
+  {
+    "id": "ADESLAS-167",
+    "product": "ADESLAS",
+    "patologia": "21/09/2023 CIRUGÍA AMBULATORIA PARA HACERLE UNA ECOGRAFÍA Y POSTERIORMENTE DIAGNOSTICARLE OBSTRUCCIÓN INTESTINAL. SIN TRATAMIENTO, SIN SECUELAS.",
+    "contratable": "ACEPTADO",
+    "comentario": "PASA LIMPIA"
+  },
+  {
+    "id": "ADESLAS-168",
+    "product": "ADESLAS",
+    "patologia": "Reducción de estómago",
+    "contratable": "RECHAZO",
+    "comentario": "RECHAZO DIRECTO POR CIRUGÍA BARIÁTRICA"
+  },
+  {
+    "id": "ADESLAS-169",
+    "product": "ADESLAS",
+    "patologia": "DIABETES TIPO 2, RYBELSUS 5MG Y Xigduo, HTA y OBESIDAD. TODO JUNTO.",
+    "contratable": "EN VALORACIÓN MÉDICA",
+    "comentario": "PIDEN INFORME Y TRAS VERLO LO RECHAZAN."
+  },
+  {
+    "id": "ADESLAS-170",
+    "product": "ADESLAS",
+    "patologia": "BIOPSIA MAMA IZQUIERDA",
+    "contratable": "ACEPTADO",
+    "comentario": "PIDEN INFORME, LA CLIENTA LO ADJUNTA Y PASA LIMPIA."
+  },
+  {
+    "id": "ADESLAS-171",
+    "product": "ADESLAS",
+    "patologia": "Vejiga hiperactiva",
+    "contratable": "RECHAZO",
+    "comentario": "RECHAZO POR CUESTIONARIO SALUD"
+  },
+  {
+    "id": "ADESLAS-172",
+    "product": "ADESLAS",
+    "patologia": "a los 51 años sufrí un accidente con un producto químico desatascador que al explotar en el fregadero me realizó quemaduras en el nervio óptico del ojo de ambos ojos",
+    "contratable": "EXCLUSIÓN",
+    "comentario": "1.-EXCLUSIÓN DE LOS MEDIOS DE DIAGNÓSTICO, TRATAMIENTOS E INGRESOS RELACIONADOS CON LAS RECIDIVAS, COMPLICACIONES, CONSECUENCIAS Y/O SECUELAS DE QUEMADURAS TÓXICAS EN AMBOS N.OPTICOS"
+  },
+  {
+    "id": "ADESLAS-173",
+    "product": "ADESLAS",
+    "patologia": "Siringomielia desde hace 7 años, sin tratamiento, ni operaciones.",
+    "contratable": "RECHAZO",
+    "comentario": "La valoración del caso  con los datos proporcionados es DENEGAR por riesgo no asegurable. (Siringomielia)"
+  },
+  {
+    "id": "ADESLAS-174",
+    "product": "ADESLAS",
+    "patologia": "túnel carpiano mano derecha operado hace 10 años ha pasado limpio sin exclusion.",
+    "contratable": "ACEPTADO",
+    "comentario": ""
+  },
+  {
+    "id": "ADESLAS-175",
+    "product": "ADESLAS",
+    "patologia": "82 años operado hace 42 años del estomago y quedo genial solo va una vez al año a revision, tambien fue operado hace 25 años de hernia y le dieron el alta no va ni a revision, operado de la prostata en el año 2008 y solo va a revision una vez al año y operado en 2017 de diverticulis tambien revision una vez al año",
+    "contratable": "RECHAZO",
+    "comentario": "RECHAZO DIRECTO POR PLURIPATOLOGÍA"
+  },
+  {
+    "id": "ADESLAS-176",
+    "product": "ADESLAS",
+    "patologia": "CONDROMALACIA ROTULIANA",
+    "contratable": "EXCLUSIÓN",
+    "comentario": "EXCLUSION"
+  },
+  {
+    "id": "ADESLAS-177",
+    "product": "ADESLAS",
+    "patologia": "Paciente de 59 años con Hipoplasia medular diagnosticada 7 años atrás sin tratamientos en curso ni en historial médico, ni complicaciones ni secuelas adversas. Sin otras patologias e IMC de 24",
+    "contratable": "RECHAZO",
+    "comentario": "RECHAZO DIRECTO POR MedExpert"
+  },
+  {
+    "id": "ADESLAS-178",
+    "product": "ADESLAS",
+    "patologia": "espondilitis anquilosante. Sin tratamientos en ningún momento referentes a esta operación, complicaciones o secuelas adversas.",
+    "contratable": "RECHAZO",
+    "comentario": "MedExpert: con los datos proporcionados es DENEGAR por ESPONDILITIS ANQUILOSANTE"
+  },
+  {
+    "id": "ADESLAS-179",
+    "product": "ADESLAS",
+    "patologia": "Extracción de vesícula en el 17/02/2021",
+    "contratable": "ACEPTADO",
+    "comentario": "PASA LIMPIA"
+  },
+  {
+    "id": "ADESLAS-180",
+    "product": "ADESLAS",
+    "patologia": "1. ESÓFAGO BARRET. PROCESO EN CURSO PENDIENTE DE RESOLUCIÓN",
+    "contratable": "RECHAZO",
+    "comentario": "Rechazo"
+  },
+  {
+    "id": "ADESLAS-181",
+    "product": "ADESLAS",
+    "patologia": "POLIOMIELITIS",
+    "contratable": "EXCLUSIÓN",
+    "comentario": "EXCLUSION DE LOS MEDIOS DE DIAGNOSTICO , TRATAMIENTOS E INGRESOS RELACIONADOS CON LAS COMPLICACIONES , CONSECUENCIAS Y/O SECUELAS DE POLIOMIELITIS"
+  },
+  {
+    "id": "ADESLAS-182",
+    "product": "ADESLAS",
+    "patologia": "Le quitaron un polipo de 3mm el 06/06/2025 y finalizo tratamiento el dia 09/12/2025 por lo tanto es rechazo directo (sigmoidectomía laparoscópica )",
+    "contratable": "RECHAZO",
+    "comentario": "NO ASEGURABLE POR OPERACION RECIENTE HACE MENOS DE 1 AÑO"
+  },
+  {
+    "id": "ADESLAS-183",
+    "product": "ADESLAS",
+    "patologia": "ARTRODESIS, FIJACION L5-S1 Y PROTESIS L5-L4. HACE 4 AÑOS",
+    "contratable": "EXCLUSIÓN",
+    "comentario": "EXCLUSION DE LAS COMPLICACIONES , CONSECUENCIAS Y/O SECUELAS DE\nAFECCIONES COLUMNA LUMBOSACRE L5-S1 Y SU CIRUGIA: MEDIOS DE\nDIAGNOSTICO , TRATAMIENTOS E INGRESOS"
+  },
+  {
+    "id": "SENIORS-0",
+    "product": "SENIORS",
+    "patologia": "Diabetes Tipo 1 (se pincha insulina diabético, diabética, diabete)",
+    "contratable": "RECHAZO",
+    "comentario": "Necesario informe médico para valorar."
+  },
+  {
+    "id": "SENIORS-1",
+    "product": "SENIORS",
+    "patologia": "Diabetes Tipo 2 (tratamiento con pastillas)",
+    "contratable": "ACEPTADO",
+    "comentario": "No es necesario aportar informe, pasa limpia."
+  },
+  {
+    "id": "SENIORS-2",
+    "product": "SENIORS",
+    "patologia": "Próstata operada hace 15 años (no es tumor no cáncer). Cataratas operadas hace 2 años. (prostata)",
+    "contratable": "EXCLUSIÓN",
+    "comentario": "EXCLUSION (1) AFECCIONES DE PRÓSTATA Y (2) CATARATAS  (MEDIOS DE DIAGNÓSTICO, TRATAMIENTOS E INGRESOS), ASÍ COMO POR SUS COMPLICACIONES, CONSECUENCIAS Y/O SECUELAS"
+  },
+  {
+    "id": "SENIORS-3",
+    "product": "SENIORS",
+    "patologia": "operada en los dos ojos de miopia",
+    "contratable": "ACEPTADO",
+    "comentario": "Aceptado sin carencias y sin exclusiones, PASA LIMPIA."
+  },
+  {
+    "id": "SENIORS-4",
+    "product": "SENIORS",
+    "patologia": "diabético tipo 2 toma 2 pastillas distintas por la diabetes",
+    "contratable": "ACEPTADO",
+    "comentario": "Aceptado sin carencias y sin exclusiones, PASA LIMPIA."
+  },
+  {
+    "id": "SENIORS-5",
+    "product": "SENIORS",
+    "patologia": "hipertensión",
+    "contratable": "ACEPTADO",
+    "comentario": "Aceptado sin carencias y sin exclusiones, PASA LIMPIA."
+  },
+  {
+    "id": "SENIORS-6",
+    "product": "SENIORS",
+    "patologia": "80 años de edad que hace 12 años le pusieron un STENT. Pesa 68kg y mide 167cm. No tiene ningún tipo de recaída y secuela durante todos estos años.",
+    "contratable": "RECHAZO",
+    "comentario": ""
+  },
+  {
+    "id": "SENIORS-7",
+    "product": "SENIORS",
+    "patologia": "diabetes tipo 2 + hipertensión + operación de cadera menos de 1 año",
+    "contratable": "RECHAZO",
+    "comentario": ""
+  },
+  {
+    "id": "SENIORS-8",
+    "product": "SENIORS",
+    "patologia": "tensión alta azúcar y una hernia inguinal que se la han quitado hace años",
+    "contratable": "ACEPTADO",
+    "comentario": "PASA LIMPIA"
+  },
+  {
+    "id": "SENIORS-9",
+    "product": "SENIORS",
+    "patologia": "Cirugía mayor reciente sea cual sea la edad y el estado del paciente",
+    "contratable": "RECHAZO",
+    "comentario": "RECHAZO DIRECTO"
+  },
+  {
+    "id": "SENIORS-10",
+    "product": "SENIORS",
+    "patologia": "Operación de uretra",
+    "contratable": "EXCLUSIÓN",
+    "comentario": "EXCLUSION DE LOS MEDIOS DE DIAGNOSTICO , TRATAMIENTOS E INGRESOS\nRELACIONADOS CON LAS RECIDIVAS , COMPLICACIONES , CONSECUENCIAS Y/O\nSECUELAS DE TTO DE PROSTATA DECLARADO Y SUS CAUSAS"
+  },
+  {
+    "id": "SENIORS-11",
+    "product": "SENIORS",
+    "patologia": "Prostatitis en tratamiento.",
+    "contratable": "RECHAZO",
+    "comentario": "RECHAZO DIRECTO"
+  },
+  {
+    "id": "SENIORS-12",
+    "product": "SENIORS",
+    "patologia": "Próstata operada no indica fecha de la operación",
+    "contratable": "EXCLUSIÓN",
+    "comentario": "LO IDEAL ES INDICAR LA FECHA DE LA OPERACIÓN Y EL ALTA"
+  },
+  {
+    "id": "SENIORS-13",
+    "product": "SENIORS",
+    "patologia": "EPOC LEVE estadio 1, GRADO 1 (enfermedad pulmonar obstructiva crónica)",
+    "contratable": "ACEPTADO",
+    "comentario": "PASAN LIMPIAS, EXCEPTO AQUELLAS QUE PRESENTANDO INFORME NO SEA FAVORABLE, POR LO GENERAL, PASAN CASI TODAS."
+  },
+  {
+    "id": "SENIORS-14",
+    "product": "SENIORS",
+    "patologia": "Hipertensión (HTA)",
+    "contratable": "ACEPTADO",
+    "comentario": ""
+  },
+  {
+    "id": "SENIORS-15",
+    "product": "SENIORS",
+    "patologia": "Obesidad (IMC ≥ 16 5 y ≤ 40).",
+    "contratable": "ACEPTADO",
+    "comentario": ""
+  },
+  {
+    "id": "SENIORS-16",
+    "product": "SENIORS",
+    "patologia": "Hace 3 años le quitaron la próstata por error médico y tiene Flebitis que es inflamación de las venas sobre todo la orta que pasa por la ingle",
+    "contratable": "RECHAZO",
+    "comentario": ""
+  },
+  {
+    "id": "SENIORS-17",
+    "product": "SENIORS",
+    "patologia": "Altura 182 cm Peso 129 kg IMC 39. Fuma medio paquete al día.",
+    "contratable": "ACEPTADO",
+    "comentario": "PASA LIMPIA SIN EXCLUSIÓN"
+  },
+  {
+    "id": "SENIORS-18",
+    "product": "SENIORS",
+    "patologia": "póliza 3.000€ los dos tenían colesterol y tensión. Operación en ambas manos por tendinitis 36% discapacidad.",
+    "contratable": "ACEPTADO",
+    "comentario": "PASA LIMPIA, SIN EXCLUSIÓN."
+  },
+  {
+    "id": "SENIORS-19",
+    "product": "SENIORS",
+    "patologia": "Artrosis en las dos rodillas aporta informe.",
+    "contratable": "EXCLUSIÓN",
+    "comentario": "SE PRECISA INFORME PARA PODER VALORAR."
+  },
+  {
+    "id": "SENIORS-20",
+    "product": "SENIORS",
+    "patologia": "Extirpación de vesícula y apéndice",
+    "contratable": "ACEPTADO",
+    "comentario": "PASA LIMPIA."
+  },
+  {
+    "id": "SENIORS-21",
+    "product": "SENIORS",
+    "patologia": "Hipertensión alta medicación Atenolol 50mg",
+    "contratable": "ACEPTADO",
+    "comentario": "PASA LIMPIA."
+  },
+  {
+    "id": "SENIORS-22",
+    "product": "SENIORS",
+    "patologia": "operación de cataratas hace 1 año.",
+    "contratable": "EXCLUSIÓN",
+    "comentario": "EXCLUSIÓN CATARATAS"
+  },
+  {
+    "id": "SENIORS-23",
+    "product": "SENIORS",
+    "patologia": "OPERADO DE CATARATAS HACE 7 Y 10 AÑOS SIN SECUELAS EN PERFECTO ESTADO",
+    "contratable": "EXCLUSIÓN",
+    "comentario": ""
+  },
+  {
+    "id": "SENIORS-24",
+    "product": "SENIORS",
+    "patologia": "Esguince de tercer grado el ligamento roto por todas partes. Persona de 55 años altura 160 cm peso 54kg.",
+    "contratable": "ACEPTADO",
+    "comentario": "NO ENTENDEMOS POR QUÉ HA PASADO LIMPIA. OTROS CASOS IGUALES NO NOS LO HAN ACEPTADO NI DE BROMA."
+  },
+  {
+    "id": "SENIORS-25",
+    "product": "SENIORS",
+    "patologia": "Operación de cervicales con placa de titanio hace más de xx años.",
+    "contratable": "EXCLUSIÓN",
+    "comentario": "EXCLUSION DE MEDIOS DIAGNOSTICOS , TRATAMIENTO E INGRESOS RELACIONADOS CON LAS COMPLICACIONES , CONSECUENCIAS Y/O SECUELAS DE AFECCION COLUMNA CERVICAL Y SU CIRUGIA"
+  },
+  {
+    "id": "SENIORS-26",
+    "product": "SENIORS",
+    "patologia": "Asmatica que le inyectan una vez al mes Nucala y ventolín.",
+    "contratable": "EXCLUSIÓN",
+    "comentario": ""
+  },
+  {
+    "id": "SENIORS-27",
+    "product": "SENIORS",
+    "patologia": "Pastillas para el colesterol y vitamina d por prevención para los huesos. Toma Simvastatina 10 mg para el colesterol.",
+    "contratable": "ACEPTADO",
+    "comentario": "PASA LIMPIA."
+  },
+  {
+    "id": "SENIORS-28",
+    "product": "SENIORS",
+    "patologia": "ARTRODESIS TOBILLO CURADA Y SIN NINGUN TIPO DE SECUELA NI TRATAMIENTO. ¡¡NECESARIO INFORME PARA PODER VALORAR!!",
+    "contratable": "EXCLUSIÓN",
+    "comentario": "INFORME MÉDICO ACTUAL   CIRUGÍA DE TOBILLO DECLARADA: DIAGNÓSTICO/MOTIVO/CAUSA, LOCALIZACIÓN,  FECHAS, TRATAMIENTO, SITUACIÓN ACTUAL, PRONÓSTICO"
+  },
+  {
+    "id": "SENIORS-29",
+    "product": "SENIORS",
+    "patologia": "Operado de menisco hace 5 años sin secuelas sin tratamiento, sin recaída",
+    "contratable": "ACEPTADO",
+    "comentario": "SORPRENDENTEMENTE PASA LIMPIA."
+  },
+  {
+    "id": "SENIORS-30",
+    "product": "SENIORS",
+    "patologia": "1 pastilla por la mañana enalapril y otra por la noche de atenolol. Operación hace más de 15 años de un quiste en la nuez y una fistula hace 20 años. Operacion de cataratas hace más de 4 años en sanitas.",
+    "contratable": "EXCLUSIÓN",
+    "comentario": "SOLO HAN APLICADO EXCLUSIÓN DE CATARATAS, EL RESTO PASA LIMPIO."
+  },
+  {
+    "id": "SENIORS-31",
+    "product": "SENIORS",
+    "patologia": "con reducción de estómago y con altura de 167 y 105 kilos (IMC 37.6)",
+    "contratable": "RECHAZO",
+    "comentario": "RECHAZAR por riesgo no asegurable (Cirugía Bariátrica, IMC>34)"
+  },
+  {
+    "id": "SENIORS-32",
+    "product": "SENIORS",
+    "patologia": "TOTAL firma digital, el cielnte puso en la declaración textualmente \"traumatología codo derecho hace 5 años sin secuelas\"",
+    "contratable": "ACEPTADO",
+    "comentario": "PASA LIMPIA."
+  },
+  {
+    "id": "SENIORS-33",
+    "product": "SENIORS",
+    "patologia": "Extracción de una piedra en la vesícula (cálculos biliares) de manera no intrusiva mediante colonoscopia hace 2 años. MUY GORDA IMC 36.",
+    "contratable": "EXCLUSIÓN",
+    "comentario": "EXCLUSIÓN DE LA VESÍCULA Y LA OBESIDAD."
+  },
+  {
+    "id": "SENIORS-34",
+    "product": "SENIORS",
+    "patologia": "OPERACION DE VESÍCULA EN SEPTIEMBRE DEL 2023 SIN SECUELAS, SIN RECAÍDA Y SIN TRATAMIENTO POSTERIOR.",
+    "contratable": "ACEPTADO",
+    "comentario": ""
+  },
+  {
+    "id": "SENIORS-35",
+    "product": "SENIORS",
+    "patologia": "un oído perfecto, el otro con el 65% de périda de audición, operado a los 4 años y desde entonces le pusieron un audífono. Desde entonces realiza controles con otorrino.",
+    "contratable": "EXCLUSIÓN",
+    "comentario": "EXCLUSION HIPOACUSIA/SORDERA : MEDIOS DE DIAGNÓSTICO, TRATAMIENTOS E INGRESOS, ASÍ COMO POR SUS COMPLICACIONES, CONSECUENCIAS Y/O SECUELAS"
+  },
+  {
+    "id": "SENIORS-36",
+    "product": "SENIORS",
+    "patologia": "TOTAL. Osteoporosis no tiene ningún tratamiento, solo toma calcio y sale a caminar.",
+    "contratable": "EXCLUSIÓN",
+    "comentario": "EXCLUSION OSTEOPENIA (1) , OSTEOPOROSIS (2): MEDIOS DE DIAGNOSTICO ,\nTRATAMIENTOS E INGRESOS , ASI COMO POR SUS COMPLICACIONES ,\nCONSECUENCIAS Y/O SECUELAS"
+  },
+  {
+    "id": "SENIORS-37",
+    "product": "SENIORS",
+    "patologia": "Mujer de 68 años con Amilodiosis desde hace 8 años.",
+    "contratable": "RECHAZO",
+    "comentario": ""
+  },
+  {
+    "id": "SENIORS-38",
+    "product": "SENIORS",
+    "patologia": "OSTEOPOROSIS.",
+    "contratable": "EN VALORACIÓN MÉDICA",
+    "comentario": "PIDEN INFORME, DE LO CONTRARIO NO SE PUEDE CONTINUAR. SI EL INFORME ES FAVORABLE SE PUEDE ASEGURAR CON EXCLUSIÓN. EN ESTE CASO TRAS VALORAR INFORME FUE RECHAZO."
+  }
+]
