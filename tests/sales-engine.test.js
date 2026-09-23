@@ -54,6 +54,12 @@ test('petición de no contacto bloquea la insistencia',()=>{
  assert.equal(answer.ask,'');
 });
 
+test('no contacto prevalece sobre un aplazamiento en la misma frase',()=>{
+ const answer=reply('No quiero contratar todavía. No me llames más.');
+ assert.equal(answer.id,'stop');
+ assert.equal(answer.ask,'');
+});
+
 test('un cliente presionado recibe una salida libre',()=>{
  const answer=reply('No me presiones más');
  assert.equal(answer.id,'pressure');
