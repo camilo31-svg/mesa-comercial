@@ -31,6 +31,17 @@ test('sin precio y producto confirmados, aceptar no inicia la solicitud',()=>{
  assert.match(answer.say,/necesito concretar/i);
 });
 
+test('aceptación condicionada no se trata como un sí definitivo',()=>{
+ const answer=reply('Quiero contratar, pero solo si cubre la operación');
+ assert.equal(answer.id,'conditional');
+ assert.match(answer.close,/decisión expresa/i);
+});
+
+test('todavía no no bloquea el recontacto como rechazo permanente',()=>{
+ const answer=reply('No quiero contratar todavía');
+ assert.equal(answer.id,'pending');
+});
+
 test('petición de garantía no promete aceptación ni cobertura',()=>{
  const answer=reply('¿Me garantizas que me cubre la operación mañana?');
  assert.equal(answer.id,'guarantee');
