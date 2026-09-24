@@ -8,7 +8,7 @@ export default function CallChat(p:Props){
  const [topic,setTopic]=useState("");const bottom=useRef<HTMLDivElement>(null);const input=useRef<HTMLTextAreaElement>(null);
  useEffect(()=>{if(p.turns.length)bottom.current?.scrollIntoView({block:"nearest",behavior:"smooth"});},[p.turns.length]);
  function send(){const text=p.draft.trim();if(!text||p.turns.length>=60||p.saving)return;
- const answer=scriptFor(text,topic,p.follow?"follow":"sale",{need:p.need,product:p.product,quote:p.quote,turns:p.turns});
+ const answer=scriptFor(text,topic,"sale",{need:p.need,product:p.product,quote:p.quote,turns:p.turns});
  const blocked=p.blocked||answer.id==="stop";
  p.onSend({id:crypto.randomUUID(),client:text,say:blocked?"Entendido. Respetamos tu decisión y dejamos aquí la propuesta.":answer.say,ask:blocked?"":answer.ask,next:blocked?"Registra la petición de no contacto en el sistema autorizado.":answer.close,topic:blocked?"Rechazo explícito":answer.title,topicId:answer.id,otherConcerns:blocked?[]:answer.otherConcerns,mode:p.follow?"Recontacto":"Llamada",blocked});
  setTopic("");input.current?.focus();}
