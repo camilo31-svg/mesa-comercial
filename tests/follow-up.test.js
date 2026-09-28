@@ -16,7 +16,7 @@ test('la apertura solo afirma una llamada acordada si hay consentimiento y fecha
 test('la respuesta a una objeción nueva no vuelve a abrir la llamada',()=>{
  const answer=scriptFor('No quiero copagos','','sale',{...base,turns:[]});
  assert.equal(answer.id,'copago');
- assert.match(answer.say,/comparar una cuota/i);
+ assert.match(answer.say,/no quieres pagar por cada uso/i);
  assert.doesNotMatch(answer.say,/retomar los copagos/i);
 });
 
@@ -36,4 +36,3 @@ test('una solicitud de contratación sin datos no produce un cierre con huecos',
  assert.match(answer,/necesitamos concretar/i);
  assert.doesNotMatch(answer,/undefined|\[modalidad/i);
 });
-

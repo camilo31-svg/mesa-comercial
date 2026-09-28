@@ -17,12 +17,12 @@ test('cliente con presupuesto insuficiente obtiene una pregunta de límite real'
  assert.match(answer.ask,/importe máximo/i);
 });
 
-test('una objeción repetida conduce al dato pendiente',()=>{
+test('una objeción repetida sigue respondiendo al coste concreto',()=>{
  const first=reply('Es muy caro.');
  const second=reply('Sigue pareciéndome caro.',{turns:[{topicId:first.id,topic:first.title}]});
  assert.equal(second.id,'precio');
- assert.match(second.say,/sigue sin resolverse/i);
- assert.doesNotMatch(second.say,/miremos la cuota/i);
+ assert.match(second.say,/coste sigue sin encajarte/i);
+ assert.match(second.ask,/límite mensual/i);
 });
 
 test('sin precio y producto confirmados, aceptar no inicia la solicitud',()=>{
@@ -71,4 +71,3 @@ test('datos bancarios se remiten al canal autorizado',()=>{
  assert.equal(answer.id,'privacy');
  assert.match(answer.say,/canal autorizado/i);
 });
-
