@@ -1,0 +1,15 @@
+import assert from 'node:assert/strict';import {coachCases} from './coach-cases.js';
+const origin='http://localhost:5173';let cookies=new Map(),url=origin+'/';
+for(let i=0;i<5;i++){const r=await fetch(url,{redirect:'manual',headers:{Cookie:[...cookies].map(([k,v])=>k+'='+v).join('; ')}});for(const c of r.headers.getSetCookie()){const [pair]=c.split(';');const p=pair.indexOf('=');cookies.set(pair.slice(0,p),pair.slice(p+1));}const location=r.headers.get('location');if(!location)break;url=new URL(location,url).href;assert.equal(new URL(url).origin,origin);}
+const headers={Cookie:[...cookies].map(([k,v])=>k+'='+v).join('; '),'Content-Type':'application/json',origin};
+const base={need:'consultar especialistas',product:'Adeslas Plena',quote:'75 € / mes',budget:'80',duration:'12',follow:true,consent:true,followDate:'2026-10-02T10:00'};
+let exchanges=0;
+for(const row of coachCases){let turns=[],blocked=false;for(const message of [row[0],row[3]]){const r=await fetch(origin+'/api/coach',{method:'POST',headers,body:JSON.stringify({message,context:{...base,turns,blocked}})});assert.equal(r.status,200);const d=await r.json();assert.ok(d.answer.say&&d.answer.tone&&d.answer.pace);assert.doesNotMatch(d.answer.say,/Quiero responder a lo que acabas de comentar/);if(blocked)assert.equal(d.answer.blocked,true);blocked ||= d.answer.blocked;turns.push({client:message,say:d.answer.say,ask:d.answer.ask,topic:d.answer.title,topicId:d.answer.id,blocked:d.answer.blocked});exchanges++;}}
+for(const [payload,status] of [[{message:'x'.repeat(2001),context:{}},400],[{message:'Hola',context:{turns:[null]}},400]]){const r=await fetch(origin+'/api/coach',{method:'POST',headers,body:JSON.stringify(payload)});assert.equal(r.status,status);}
+const badOrigin=await fetch(origin+'/api/coach',{method:'POST',headers:{...headers,origin:'https://example.com'},body:JSON.stringify({message:'Hola',context:{}})});assert.equal(badOrigin.status,403);
+const noAuth=await fetch(origin+'/api/coach');assert.equal(noAuth.status,401);
+const sample=await (await fetch(origin+'/api/coach',{method:'POST',headers,body:JSON.stringify({message:coachCases[0][0],context:base})})).json();const a=sample.answer;
+const caseData={id:crypto.randomUUID(),alias:'Prueba técnica local',cp:'38007',ages:[35],status:'Abierto',chatTurns:[{id:crypto.randomUUID(),client:coachCases[0][0],say:a.say,ask:a.ask,next:a.close,topic:a.title,topicId:a.id,otherConcerns:[],mode:'Llamada',blocked:a.blocked,tone:a.tone,pace:a.pace,source:a.source,verification:a.verification,sources:a.sources}]};
+const saved=await fetch(origin+'/api/cases',{method:'POST',headers,body:JSON.stringify(caseData)});assert.equal(saved.status,200,await saved.text());
+const cases=await (await fetch(origin+'/api/cases',{headers})).json();const restored=cases.cases.find(x=>x.id===caseData.id);assert.equal(restored.chatTurns[0].tone,a.tone);assert.equal(restored.chatTurns[0].source,a.source);
+console.log(JSON.stringify({conversations:coachCases.length,exchanges,authAndInputChecks:'passed',historyRoundTrip:'passed'}));
